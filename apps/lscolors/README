@@ -1,0 +1,2 @@
+Enable this component to update the PetaLinux rootfs to colorize the output
+from the 'ls' command by default. This can make file system navigation easier.
